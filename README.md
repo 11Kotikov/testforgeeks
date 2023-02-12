@@ -2,7 +2,7 @@
 Hello my dear *user*, I present to you really **helpful** programme
 which make your own <span style="color:green"> ARRAY[ ] </span>!!! 
 ### But it's more than that!!!
-The greater thing is that doesn't matter how hard your try to input more than 3 symbols into it, IT USELESS!!! ha-ha-ha! Really <mark>MASSIVE</mark> right?
+The greater thing is that doesn't matter how hard your try to input more than 3 symbols into it, IT's USELESS!!! ha-ha-ha! Really <mark>MASSIVE</mark> right?
 >## So...What you should do:
 1. Open the *terminal*
 2. Input <span style="color:yellow">*dotnet </span> run*
